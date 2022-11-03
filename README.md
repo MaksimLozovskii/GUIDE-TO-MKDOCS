@@ -1,0 +1,1 @@
+# :fire: A quick guide to self hosted documentation with MKDOCS :fire:
