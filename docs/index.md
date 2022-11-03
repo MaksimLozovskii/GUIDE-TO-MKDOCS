@@ -1,3 +1,3 @@
-# Welcome to out documentation
+# Welcome to our documentation
 
-## Please vising onboarding 
+## Please visit onboarding for more info
